@@ -1,1 +1,1 @@
-# iieciiserbpr.github.io
+# IIEC, IISER Berhampur
