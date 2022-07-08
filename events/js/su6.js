@@ -1,9 +1,7 @@
 // javascript inherited from opensource, free for community use by https://github.com/subbrat
 {
-
     document.addEventListener("DOMContentLoaded", function () {
         var t = document.querySelector(".s6slide");
-
         function e(n) {
             var o = window.pageYOffset,
                 a = Math.floor(Date.now());
@@ -22,8 +20,6 @@
         })
     });
 }
-
 {
-
     document.oncontextmenu = new Function("return false");
 }
