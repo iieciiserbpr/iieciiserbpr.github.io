@@ -87,3 +87,101 @@ Alphonza Joseph
 Abhisekh Praharaj
 Sambit Mishra
 Rajesh Kumar Sau
+
+
+
+
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/suranjana.jpg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.instagram.com/suranjanatakoe/" class="icon-instagram"></a></li>
+                <li><a target="_blank" href="mailto:suranjana18@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Suranjana Takoe</h3>
+            <span class="post">Lead, Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/sambit.jpg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.facebook.com/sambit.mishra.980" class="icon-facebook"></a></li>
+                <li>
+                    <a target="_blank" href="https://www.linkedin.com/in/sambit-mishra-236b441b7/"><span
+                            class="icon-linkedin"></span></a>
+                </li>
+                <li><a target="_blank" href="https://www.instagram.com/ig._.evan._.20._/" class="icon-instagram"></a>
+                </li>
+                <li><a target="_blank" href="mailto:sambitm19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Sambit Mishra</h3>
+            <span class="post">Co-Lead, Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/rajesh.jpg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.facebook.com/rajesh.sau04" class="icon-facebook"></a></li>
+                <li><a target="_blank"
+                        href="https://twitter.com/RJ0421?fbclid=IwAR0OYQjseCJ93oiPmNOETZc3NF7wvTH4MZQ3HMOrJtlqOZRhBFN-jVYbCT4"
+                        class="icon-twitter"></a></li>
+                <li><a target="_blank"
+                        href="https://www.instagram.com/rajeshsau_0421/?fbclid=IwAR2C8lTnEDXiTcoVyKXMbNRniqRAeb9t7aR9DaBq4VSVMuNS9fKq8uTRgak"
+                        class="icon-instagram"></a></li>
+                <li><a target="_blank" href="mailto:rajesh19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Rajesh Kumar Sau</h3>
+            <span class="post">Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/Alphanzo.jpeg">
+            <ul class="social">
+                <li><a target="_blank" href="https://www.instagram.com/alphonza_joseph/" class="icon-instagram"></a>
+                </li>
+                <li><a target="_blank" href="mailto:alphonza19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Alphonza Joseph</h3>
+            <span class="post">Innovation Team</span>
+        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-6">
+    <div class="our-team">
+        <div class="pic">
+            <img src="./imges/abhisek.jpeg">
+            <ul class="social">
+                <li><a target="_blank" href="https://twitter.com/AbhisekPrahara1" class="icon-twitter"></a>
+                </li>
+                <li><a target="_blank" href="mailto:abhisekp19@iiserbpr.ac.in" class="icon-envelope"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="team-content">
+            <h3 class="title">Abhisek Praharaj</h3>
+            <span class="post">Innovation Team</span>
+        </div>
+    </div>
+</div>
