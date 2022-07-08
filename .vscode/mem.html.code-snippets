@@ -1,0 +1,25 @@
+{
+	"html": {
+		"prefix": "mem",
+		"body": [
+			"    <div class=\"col-md-4 col-sm-6\">",
+			"                      <div class=\"our-team\">",
+			"                        <div class=\"pic\">",
+			"                          <img src=\"./memb/22/${3:}.jpeg\">",
+			"                          <ul class=\"social\">",
+			"                            <li><a target=\"_blank\" href=\"mailto:${4:}@iiserbpr.ac.in\" class=\"icon-envelope\"></a>",
+			"                            </li>",
+			"                          </ul>",
+			"                        </div>",
+			"                        <div class=\"team-content\">",
+			"                          <h3 class=\"title cap\">${1:}</h3>",
+			"                          <span class=\"post cap\">${2:} Team</span>",
+			"                        </div>",
+			"                      </div>",
+			"                    </div>",
+			"",
+			""
+		],
+		"description": "html"
+	}
+}

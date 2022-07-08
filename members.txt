@@ -2,17 +2,23 @@ Faculty Advisor
 
 Dr. Natasha Sharma
 Assistant Professor at Department of Physical Sciences, IISER Berhampur
+https://phy.iiserbpr.ac.in/index.php?category=physics&pid=n-about
+nsharma@iiserbpr.ac.in
 
 Dr. Rohit Soni
 Assistant Professor at Department of Physical Sciences, IISER Berhampur
+https://phy.iiserbpr.ac.in/index.php?category=physics&pid=rohit-academic
+rsoni@iiserbpr.ac.in
 
 Rakesh Kumar Pathak
 Assistant Professor at Department of Chemical Sciences, IISER Berhampur
+https://chem.iiserbpr.ac.in/index.php?category=cs-fac&pid=rakesh-about
+rkpathak@iiserbpr.ac.in
 
 Arunkumar Krishnan
 Assistant Professor at Department of Biological Sciences, IISER Berhampur
-
-
+https://bio.iiserbpr.ac.in/arun-about.php
+akrishnan@iiserbpr.ac.in
 
 President
 Dron Mahadik
