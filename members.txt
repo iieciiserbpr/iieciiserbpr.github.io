@@ -20,14 +20,22 @@ Assistant Professor at Department of Biological Sciences, IISER Berhampur
 https://bio.iiserbpr.ac.in/arun-about.php
 akrishnan@iiserbpr.ac.in
 
-President
-Dron Mahadik
-
-Secretary
-Dipto Kumar Haldar
 
 Club Coordinator
 Ranjit Patro
+
+Club Coordinator
+Dipto Kumar Haldar
+
+Club Coordinator
+Shiwangee
+
+Club Coordinator
+Dron Mahadik
+
+
+
+
 
 Innovation Team
 Ananyo Mondal
@@ -35,7 +43,6 @@ Shelish Laimayum
 
 Events Team
 Anly Tollan (Lead)
-///////////////////////////////////
 Prithviraj (Co-Lead)
 Monalisa
 Rudrajit
@@ -56,7 +63,8 @@ Sabyasachi
 
 Media Team
 Shiwangee (Lead)
-Belide Sakthe
+Saketh
+Dibyandu
 Bevan Mathew
 Missa Saril
 
@@ -67,28 +75,40 @@ Anushka
 
 
 Past Members:
-Class of 2020-21
-Muskan Mittal
-Niraj Gupta
-Sai Smruti Sahu
-Soumyadip Mukherjee
-Bhrijesh Mishra
-Prasun Chakraborty
-
-
-Founder Members:
-Soumya Ranjan Parida
+Team 2020-21
+Soumya Ranjan Parida, President
+Vinayak S, Secretary
+Iwin K. Joseph
+Abhisek Praharaj
 Soumyajit Samal
-Iwin Joseph
-Vinayak S
-Nitin Tripathy
-Suranjana Takoe
+Amrutha P R
+Archisman Panda
 Alphonza Joseph
-Abhisekh Praharaj
+Prajwal Patil
+Ananya Anubhav Biswal
+Nitin Tripathi
 Sambit Mishra
 Rajesh Kumar Sau
+Simran Sethi
+Surajana Takoe
+Harsh Mishra
+Purna Dutta
+Gayatri Subhalaxmi
 
 
+
+Founding Members:
+Soumya Ranjan Parida
+Iwin Joseph
+Vinayak S
+Abhisekh Praharaj
+Nitin Tripathy
+Soumyajit Samal
+Amrutha P R
+Alphonza Joseph
+Suranjana Takoe
+Sambit Mishra
+Rajesh Kumar Sau
 
 
 <div class="col-md-4 col-sm-6">
