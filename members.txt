@@ -35,6 +35,7 @@ Shelish Laimayum
 
 Events Team
 Anly Tollan (Lead)
+///////////////////////////////////
 Prithviraj (Co-Lead)
 Monalisa
 Rudrajit
