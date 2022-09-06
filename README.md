@@ -3,6 +3,6 @@
   </p>
 <p align=center>
 
-    <h1> Innovation Incubation and Entrepreneurship Cell - IIEC </h1> <br>
+    # Innovation Incubation and Entrepreneurship Cell - IIEC <br>
 Indian Institute of Science Education and Research, Berhampur
   </p>
